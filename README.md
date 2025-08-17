@@ -5,7 +5,7 @@ This project analyzes the Superstore dataset to uncover insights into sales, pro
 - Data Cleaning – checked for missing values, corrected data types, removed duplicates, and standardized categories.
 - Exploratory Data Analysis (EDA) – examined trends in sales, profit, discounts, shipping days, and customer segments using Python.
 
-# Power BI Dashboard – built an interactive dashboard with:
+# Power BI Dashboard:
 - KPI Cards for Sales, Profit, Margin, Quantity
 - Time Series Trends of Sales & Profit
 - Category & Regional Breakdown
